@@ -36,39 +36,41 @@ The raw dataset underwent the following transformations:
 The data was explored using visual and statistical methods to identify trends, distributions, and anomalies. Pivot tables and charting functions in Excel were utilized to aggregate key metrics and segment insights by demographic dimensions.
 ## Insights and Chart Analysis
 1. Top Earning Employee
-2. ![](EmployeeEarning.png)
+2. 
+3. ![](EmployeeEarning.png)
+4. 
 •	Robert Rogers tops the list with a salary of $258,734.
 •	The top three earners have salaries within a close range ($258,700+), suggesting a competitive executive tier.
-3. Best Hiring Year
+5. Best Hiring Year
 •	2022 recorded the highest number of hires, with 233 employees, reflecting a recent expansion or hiring push.
-4. Top Country by Employee Population
-5. ![](EmployeePopu.png)
+6. Top Country by Employee Population
+7. ![](EmployeePopu.png)
 •	United States has the highest workforce representation (634 employees), followed by China (227) and Brazil (139).
-6. Top Hired Ethnicity
-7. ![](Ethnicity.png)
+8. Top Hired Ethnicity
+9. ![](Ethnicity.png)
 •	Asian employees form the largest ethnic group, accounting for 43% of the workforce.
-8. Highest Earning Department
+10. Highest Earning Department
 •	Human Resources leads with an average annual salary of $125,218, slightly ahead of Marketing and Accounting.
-9. Average Salary
-10. 
+11. Average Salary
+12. 
 •	The overall average salary across all employees is $109,323.
-11. Hiring Trend Analysis
-12. ![](Trends.png)
+13. Hiring Trend Analysis
+14. ![](Trends.png)
 •	The trend from 1993 to 2022 shows a consistent increase in hiring, peaking significantly from 2017–2022.
-13. Gender Distribution
-14. ![](Gender.png)
+15. Gender Distribution
+16. ![](Gender.png)
 •	Fairly balanced gender distribution: 51% male and 49% female, indicating strong gender diversity.
-15. Department Salary Analysis
+17. Department Salary Analysis
 •	Other high-paying departments include:
 o	Marketing – $124,603
 o	Accounting – $122,646
 o	Finance – $120,331
 o	Engineering trails at $107,888
-16. Top Job Titles by Average Salary
+18. Top Job Titles by Average Salary
 •	Vice Presidents command the highest salaries ($220,126), followed by:
 o	Directors – $174,542
 o	Senior Managers – $141,747
-17. Employee by Ethnicity
+19. Employee by Ethnicity
 •	Ethnic representation includes:
 o	Asian – 43%
 o	Caucasian – 28%
