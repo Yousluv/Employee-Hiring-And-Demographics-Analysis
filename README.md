@@ -5,82 +5,83 @@ This project focuses on analyzing employee hiring trends, demographic distributi
 The dashboard provides a comprehensive view of various human resources metrics. These include top earners, hiring trends, gender and ethnic diversity, average salaries, and departmental performance by compensation. The data is visualized in an intuitive format using bar charts, pie charts, and line graphs for better stakeholder understanding.
 ## Problem Statement
 Organizations with a growing and diverse workforce often lack clarity on the effectiveness of their hiring strategies, compensation equity, and demographic diversity. This analysis seeks to address:
-•	Who are the top-performing and best-paid employees?
-•	Which departments and roles attract the highest salaries?
-•	Are hiring patterns consistent or improving?
-•	How diverse is the workforce by gender, ethnicity, and geography?
+-	Who are the top-performing and best-paid employees?
+-	Which departments and roles attract the highest salaries?
+-	Are hiring patterns consistent or improving?
+-	How diverse is the workforce by gender, ethnicity, and geography?
 ## Skills Demonstrated
-•	Data Cleaning and Transformation using Excel
-•	Dashboard Creation using Excel Pivot Tables and Charts
-•	Visual Storytelling through Data Visualization
-•	Exploratory Data Analysis (EDA)
-•	Insight Derivation and Reporting
-•	HR and Demographic Analytics
+-	Data Cleaning and Transformation using Excel
+-	Dashboard Creation using Excel Pivot Tables and Charts
+-	Visual Storytelling through Data Visualization
+-	Exploratory Data Analysis (EDA)
+-	Insight Derivation and Reporting
+-	HR and Demographic Analytics
 ## Data Source
 The dataset was Downloaded from Kaggle. The Datasets includes fields such as:
-•	Employee name
-•	Department
-•	Ethnicity
-•	Gender
-•	Job title
-•	Country
-•	Annual salary
-•	Year of hire
+-	Employee name
+-	Department
+-	Ethnicity
+-	Gender
+-	Job title
+-	Country
+-	Annual salary
+-	Year of hire
 ## Data Cleaning and Transformation
 The raw dataset underwent the following transformations:
-•	Missing and duplicate values were removed.
-•	Categorical values (e.g., departments, ethnicities) were standardized.
-•	Salary and hiring year fields were converted into numeric formats.
-•	Derived columns like average salary by department and hiring year ranges were created for trend analysis.
+-	Missing and duplicate values were removed.
+-	Categorical values (e.g., departments, ethnicities) were standardized.
+-	Salary and hiring year fields were converted into numeric formats.
+-	Derived columns like average salary by department and hiring year ranges were created for trend analysis.
 ## Exploratory Data Analysis
 The data was explored using visual and statistical methods to identify trends, distributions, and anomalies. Pivot tables and charting functions in Excel were utilized to aggregate key metrics and segment insights by demographic dimensions.
 ## Insights and Chart Analysis
-1. Top Earning Employee
+- Top Earning Employee
 2. 
 3. ![](EmployeeEarning.png)
-4. 
-•	Robert Rogers tops the list with a salary of $258,734.
-•	The top three earners have salaries within a close range ($258,700+), suggesting a competitive executive tier.
+
+- Robert Rogers tops the list with a salary of $258,734.
+-	The top three earners have salaries within a close range ($258,700+), suggesting a competitive executive tier.
 5. Best Hiring Year
-•	2022 recorded the highest number of hires, with 233 employees, reflecting a recent expansion or hiring push.
+- 2022 recorded the highest number of hires, with 233 employees, reflecting a recent expansion or hiring push.
 6. Top Country by Employee Population
 7. ![](EmployeePopu.png)
-•	United States has the highest workforce representation (634 employees), followed by China (227) and Brazil (139).
+-	United States has the highest workforce representation (634 employees), followed by China (227) and Brazil (139).
 8. Top Hired Ethnicity
 9. ![](Ethnicity.png)
-•	Asian employees form the largest ethnic group, accounting for 43% of the workforce.
+-	Asian employees form the largest ethnic group, accounting for 43% of the workforce.
 10. Highest Earning Department
-•	Human Resources leads with an average annual salary of $125,218, slightly ahead of Marketing and Accounting.
+-	Human Resources leads with an average annual salary of $125,218, slightly ahead of Marketing and Accounting.
 11. Average Salary
 12. 
-•	The overall average salary across all employees is $109,323.
+-	The overall average salary across all employees is $109,323.
 13. Hiring Trend Analysis
 14. ![](Trends.png)
-•	The trend from 1993 to 2022 shows a consistent increase in hiring, peaking significantly from 2017–2022.
+-	The trend from 1993 to 2022 shows a consistent increase in hiring, peaking significantly from 2017–2022.
 15. Gender Distribution
 16. ![](Gender.png)
-•	Fairly balanced gender distribution: 51% male and 49% female, indicating strong gender diversity.
+-	Fairly balanced gender distribution: 51% male and 49% female, indicating strong gender diversity.
 17. Department Salary Analysis
-•	Other high-paying departments include:
-o	Marketing – $124,603
-o	Accounting – $122,646
-o	Finance – $120,331
-o	Engineering trails at $107,888
+-	Other high-paying departments include:
+-	Marketing – $124,603
+-	Accounting – $122,646
+-	Finance – $120,331
+-	Engineering trails at $107,888
 18. Top Job Titles by Average Salary
-•	Vice Presidents command the highest salaries ($220,126), followed by:
-o	Directors – $174,542
-o	Senior Managers – $141,747
+-	Vice Presidents command the highest salaries ($220,126), followed by:
+-	Directors – $174,542
+-	Senior Managers – $141,747
 19. Employee by Ethnicity
-•	Ethnic representation includes:
-o	Asian – 43%
-o	Caucasian – 28%
-o	Latino – 22%
-o	Black – 7%
+-	Ethnic representation includes:
+-	Asian – 43%
+-	Caucasian – 28%
+-	Latino – 22%
+-	Black – 7%
 Recommendations
-•	Recruiting Focus: Continue expansion efforts in diverse countries and ethnic groups to enhance global representation.
-•	Equity in Pay: Conduct deeper analysis to ensure pay equity across departments and demographics.
-•	Talent Retention: With recent hiring spikes, invest in programs for retention, especially for top earners and new hires.
-•	Engineering Compensation Review: Engineering lags in average salary; consider a review to stay competitive in technical talent markets.
-•	Gender Diversity Programs: Maintain and improve gender balance, possibly introducing leadership training for underrepresented groups.
+-	Recruiting Focus: Continue expansion efforts in diverse countries and ethnic groups to enhance global representation.
+-	Equity in Pay: Conduct deeper analysis to ensure pay equity across departments and demographics.
+-	Talent Retention: With recent hiring spikes, invest in programs for retention, especially for top earners and new hires.
+-	Engineering Compensation Review: Engineering lags in average salary; consider a review to stay competitive in technical talent markets.
+-	Gender Diversity Programs: Maintain and improve gender balance, possibly introducing leadership training for underrepresented groups.
+
 Conclusion
 The dashboard offers a powerful lens into employee demographics and salary trends. It helps stakeholders make data-driven decisions in talent acquisition, compensation planning, and diversity initiatives. Continued updates and integration with live data sources can enhance strategic workforce planning.
