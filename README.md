@@ -47,7 +47,7 @@ The data was explored using visual and statistical methods to identify trends, d
 7. ![](EmployeePopu.png)
 -	United States has the highest workforce representation (634 employees), followed by China (227) and Brazil (139).
 8. Top Hired Ethnicity
-9. ![](Ethnicity.png)
+9. ![](ethnicity.png)
 -	Asian employees form the largest ethnic group, accounting for 43% of the workforce.
 10. Highest Earning Department
 -	Human Resources leads with an average annual salary of $125,218, slightly ahead of Marketing and Accounting.
